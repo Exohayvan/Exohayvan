@@ -22,13 +22,11 @@ Here are some of the languages and tools I have worked with:
 ![Discord.js](https://img.shields.io/badge/-Discord.js-000?&logo=discord)
 ![Discord.py](https://img.shields.io/badge/-Discord.py-000?&logo=python)
 
-## Currently Working On
+## Currently Projects
 
 ### [Glyztera](https://github.com/Glyztera)
 
 Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future.
-
-## Projects
 
 ### [Crypto-Seed-Project](https://github.com/Exohayvan/Crypto-Seed-Project)
 
