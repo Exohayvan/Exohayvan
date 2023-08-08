@@ -22,7 +22,7 @@ Here are some of the languages and tools I have worked with:
 ![Discord.js](https://img.shields.io/badge/-Discord.js-000?&logo=discord)
 ![Discord.py](https://img.shields.io/badge/-Discord.py-000?&logo=python)
 
-## Currently Projects
+## Current Projects
 
 ### [Glyztera](https://github.com/Glyztera)
 
