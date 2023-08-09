@@ -25,7 +25,7 @@ Here are some of the languages and tools I have worked with:
 ## Current Projects
 
 ### [Glyztera](https://github.com/Glyztera)
-![Stars](https://img.shields.io/github/stars/Glyztera/Glyztera?style=social)
+![Stars](https://img.shields.io/github/stars/Glyztera?style=social)
 
 Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future.
 
