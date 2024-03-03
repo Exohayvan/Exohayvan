@@ -24,10 +24,6 @@ Here are some of the languages and tools I have worked with:
 
 ## Current Projects
 
-### [Glyztera](https://github.com/Glyztera) ![Stars](https://img.shields.io/github/stars/Glyztera?style=social)
-
-Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future.
-
 ### [Crypto-Seed-Project](https://github.com/Exohayvan/Crypto-Seed-Project) ![Stars](https://img.shields.io/github/stars/Exohayvan/Crypto-Seed-Project?style=social)
 
 A project for brute-forcing private keys, developed purely for educational use. Tools & Languages used: Python
