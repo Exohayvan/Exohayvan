@@ -22,16 +22,6 @@ Here are some of the languages and tools I have worked with:
 ![Discord.js](https://img.shields.io/badge/-Discord.js-000?&logo=discord)
 ![Discord.py](https://img.shields.io/badge/-Discord.py-000?&logo=python)
 
-## Current Projects
-
-### [Crypto-Seed-Project](https://github.com/Exohayvan/Crypto-Seed-Project) ![Stars](https://img.shields.io/github/stars/Exohayvan/Crypto-Seed-Project?style=social)
-
-A project for brute-forcing private keys, developed purely for educational use. Tools & Languages used: Python
-
-### [Astuko](https://github.com/Exohayvan/atsuko) ![Stars](https://img.shields.io/github/stars/Exohayvan/atsuko?style=social)
-
-Astuko is a Discord bot designed with a focus on extensibility and reliability. It's built using Python.
-
 ## 🚀 Fun Facts
 
 - I love to play all types of video games.
