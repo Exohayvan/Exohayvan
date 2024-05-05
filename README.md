@@ -4,7 +4,7 @@ I'm Trevor Oler, a passionate self-taught coder from the United States of Americ
 
 ## Skills & Tools
 
-Certified in Coding Fundamentals, I have proficiency in Python, and fair experience with C++, HTML, JS, Rust, Ruby, TypeScript, and Go. I'm familiar with Node.js and have hands-on experience with Discord.js and Discord.py, enhancing my versatility in different coding environments.
+Certified in Coding Fundamentals, I have proficiency in Python, and fair experience with C++, HTML, and JS. I'm familiar with Node.js, Go, Rust, Ruby, TypeScript and have hands-on experience with Discord.js and Discord.py, enhancing my versatility in different coding environments.
 
 Here are some of the languages and tools I have worked with:
 
