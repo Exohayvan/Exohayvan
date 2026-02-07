@@ -30,7 +30,7 @@ Here are some of the languages and tools I have worked with:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Exohayvan&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ExoHayvan?cardType=level&theme=blueberry&fontFamily=Abyssinica%20SIL&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Contact Me
 
