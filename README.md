@@ -37,5 +37,3 @@ Here are some of the languages and tools I have worked with:
 Feel free to reach out to me at [exohayvan@glyztera.com](mailto:exohayvan@glyztera.com) or [exohayvan@decyubit.com](mailto:exohayvan@decyubit.com).
 
 Thanks for visiting my profile. Happy coding! 😊
-
-![](https://hit.yhype.me/github/profile?user_id=25593503)
